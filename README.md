@@ -25,7 +25,7 @@ python3.7 -m venv .venv
 
 # Attivazione dell'ambiente virtuale
 # Su macOS/Linux:
-source venv/bin/activate
+source .venv/bin/activate
 # Su Windows:
 .venv\Scripts\activate
 ```
