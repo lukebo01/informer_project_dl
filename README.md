@@ -71,8 +71,7 @@ informer_project_dl/
 Di seguito i link per scaricare i dataset adatti all' informer:
 
 - **ETT Dataset (Electricity Transformer Temperature)**: [ETT Download](https://github.com/zhouhaoyi/ETDataset)
-- **M4 Dataset (Finance, Industry, Macro, Demography)**: [M4 Download](https://www.kaggle.com/competitions/m4-forecasting)
-- **PeMS Traffic Dataset (Flusso di traffico stradale)**: [PeMS Download](https://doi.org/10.5281/zenodo.12247)
+- **M4 Dataset (Finance, Industry, Macro, Demography)**: [M4 Download](https://www.kaggle.com/datasets/yogesh94/m4-forecasting-competition-dataset)
 - **BDG2 (Building Data Genome 2 - Energia Edifici)**: [BDG2 Download](https://github.com/buds-lab/building-data-genome-project-2)
 
 ## Contatti
