@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 > ⚠️ **Nota:** Se vuoi eseguire il modello su GPU, assicurati di installare la versione corretta di **PyTorch** per la tua versione di CUDA.
 
-```
+
 
 ## Struttura del Progetto
 ```bash
