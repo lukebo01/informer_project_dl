@@ -36,8 +36,12 @@ Le librerie utilizzano versioni specifiche compatibili con **Informer2020**.
 pip install -r requirements.txt
 ```
 
-> ⚠️ **Nota:** Se vuoi eseguire il modello su GPU, assicurati di installare la versione corretta di **PyTorch** per la tua versione di CUDA.
-
+>
+### 4. Installare PyTorch (opzionale, per GPU)
+ ⚠️ **Nota:** Se vuoi eseguire il modello su GPU, assicurati di installare la versione corretta di **PyTorch** per la tua versione di CUDA.
+```sh
+pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html
+```
 
 
 ## Struttura del Progetto
@@ -79,3 +83,4 @@ Per qualsiasi domanda o suggerimento, puoi contattarmi via email: **luc.borreli1
 
 ---
 © 2024, Luca Borrelli. Progetto open-source sotto licenza MIT.
+
