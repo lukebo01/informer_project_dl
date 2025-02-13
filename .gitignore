@@ -1,5 +1,6 @@
 .venv/
 data/
+Informer2020/
 train_nasa/results/
 informer_checkpoints/
 informer_project_dl/
