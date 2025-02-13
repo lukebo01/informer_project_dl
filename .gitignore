@@ -1,2 +1,5 @@
 .venv/
-
+data/
+train_nasa/results/
+informer_checkpoints/
+informer_project_dl/
